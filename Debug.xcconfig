@@ -1,0 +1,13 @@
+//
+//  Debug.xcconfig
+//  DemoXCConfig
+//
+//  Created by Tomasz Szulc on 14/11/15.
+//  Copyright © 2015 Tomasz Szulc. All rights reserved.
+//
+
+#include "Default.xcconfig"
+
+APP_NAME = Demo Debug
+
+BACKEND_URL = http:\/\/debug.api.szulctomasz.com/

@@ -1,0 +1,11 @@
+//
+//  Release.xcconfig
+//  DemoXCConfig
+//
+//  Created by Tomasz Szulc on 14/11/15.
+//  Copyright © 2015 Tomasz Szulc. All rights reserved.
+//
+
+#include "Default.xcconfig"
+
+BACKEND_URL = http:\/\/release.api.szulctomasz.com/

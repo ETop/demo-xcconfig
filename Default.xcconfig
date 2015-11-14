@@ -1,0 +1,13 @@
+//
+//  Default.xcconfig
+//  DemoXCConfig
+//
+//  Created by Tomasz Szulc on 14/11/15.
+//  Copyright © 2015 Tomasz Szulc. All rights reserved.
+//
+
+APP_VERSION = 1.1
+
+APP_BUILD_VERSION = 10
+
+APP_NAME = Demo
